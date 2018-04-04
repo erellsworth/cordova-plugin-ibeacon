@@ -1,9 +1,9 @@
 {
-  "name": "com.unarin.cordova.beacon",
-  "version": "3.6.0",
+  "name": "com.unarin.cordova.beacon.ee",
+  "version": "3.6.0.1",
   "description": "Proximity Beacon Monitoring and Transmission Plugin (supporting iBeacons)",
   "cordova": {
-    "id": "com.unarin.cordova.beacon",
+    "id": "com.unarin.cordova.beacon.ee",
     "platforms": [
       "ios",
       "android"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petermetz/cordova-plugin-ibeacon.git"
+    "url": "git+https://github.com/erellsworth/cordova-plugin-ibeacon.git"
   },
   "keywords": [
     "cordova",
